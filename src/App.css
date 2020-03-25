@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+  border: "1px solid #DDD";
+  max-width: 90vw;
+}
+
+.selected-items-wrapper {
+  display: flex;
+  margin-bottom: 100px;
+}
